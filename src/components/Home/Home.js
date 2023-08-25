@@ -11,7 +11,7 @@ const Home = () => {
             <h1>I'm Lionel, a <span>Web Developer</span></h1>
             <h2>and i create things for the web.</h2>
             <br/>
-            <button><h3>Contact me</h3></button>
+            <button><h3>Get in touch </h3></button>
         </div>
     
     </div>

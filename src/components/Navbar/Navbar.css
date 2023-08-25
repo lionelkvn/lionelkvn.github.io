@@ -8,7 +8,8 @@
     color: Black;
     width: 100%;
     z-index: 99999;
-    background-color:rgba(0, 0, 0, 0);
+    background-color:white;
+ 
   }
   * {
     margin: 0;
@@ -42,7 +43,7 @@
   }
   
   .navbar-container ul li a {
-    color:#000000;
+    color:black;
     text-decoration: none;
     position: relative;
   }
@@ -55,12 +56,13 @@
     bottom: -5px;
     left: 50%;
     transform: translateX(-50%);
-    background: #000000;
+    background: blueviolet;
     transition: width 0.3s;
   }
   
   .navbar-container ul li a:hover::after {
     width: 70%;
+    color: blueviolet;
   }
   .menu {
     padding-right: 100px;
