@@ -6,26 +6,37 @@
     height:60vh;
     width: 100%;
 }
+.about-text{
+  width: 50%;
+}
 .about-me-header {
     display: flex;
-    padding-left: 200px;
-    justify-content: start;
+    justify-content:center;
     padding-bottom: 2rem;
 }
 .about-me-description {
+  display: flex;
     padding-left:  100px ;
     justify-content: center;
-    width: 70%;
+    width: 80%;
 
 }
 .techstack-container {
     display: flex;
     width: 50%;
+    justify-content: center;
     
+}
+.techstack-text{
+  display: flex;
+  flex-direction: column;
 }
 .techstack-icons{
     display: flex;
     flex-direction: row;
+}
+.techstack-image{
+  width: 150px;
 }
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {

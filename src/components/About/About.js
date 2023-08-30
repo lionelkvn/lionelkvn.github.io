@@ -22,7 +22,8 @@ const About = () => {
           <h1>Tech<span>Stack</span></h1>
             <div className="techstack-icons">
               <div className="techstack-icon">
-              <FontAwesomeIcon icon={faHtml5} style={{ color: "#6600ff" }} />
+                <img src="/images/html.png" alt="" className='techstack-image'/>
+                <img src="/images/CSS.png" alt="" className='techstack-image' />
 
               </div>
           
