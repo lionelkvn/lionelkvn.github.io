@@ -79,7 +79,7 @@
   
     .home-image img {
       width: 100%; /* Adjust the image width for better responsiveness */
-      border-radius: 25%; /* Use a perfect circle for border-radius */
+      border-radius: 50%; /* Use a perfect circle for border-radius */
     }
   
     .home-text {
