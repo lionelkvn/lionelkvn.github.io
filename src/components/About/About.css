@@ -27,3 +27,32 @@
     display: flex;
     flex-direction: row;
 }
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+  
+    .about-me-header {
+      padding-left: 0;
+      text-align: center;
+      padding-bottom: 1rem;
+    }
+  
+    .about-me-description {
+      padding-left: 0;
+      width: 100%;
+      text-align: center;
+    }
+  
+    .techstack-container {
+      width: 100%;
+      margin-top: 1rem;
+    }
+  
+    .techstack-icons {
+      justify-content: center;
+    }
+  }

@@ -60,4 +60,41 @@
     border-color: #14bdad;
     cursor: pointer;
   }
+  @media (max-width: 768px) {
+    .Home-container {
+    flex-direction: column;
+    padding-top: 3rem;
+    padding: 2rem 5%;
+    text-align: center;
+    height: 80vh;
+    }
   
+    .home-image {
+      width: 80%; /* Adjust the width for better responsiveness */
+      justify-content: center;
+      padding-top: 4rem;
+      padding-right: 0;
+      margin-bottom: 1rem; /* Add some spacing between image and text */
+    }
+  
+    .home-image img {
+      width: 100%; /* Adjust the image width for better responsiveness */
+      border-radius: 25%; /* Use a perfect circle for border-radius */
+    }
+  
+    .home-text {
+      align-items: center;
+      margin-left: 0;
+    }
+  
+    button {
+      padding: 8px 20px;
+      font-size: 12px;
+      border-radius: 30px;
+      box-shadow: none; /* Remove the box shadow on mobile */
+    }
+  
+    .home-text button {
+      margin-top: 1rem; /* Adjust spacing above the button */
+    }
+  }
