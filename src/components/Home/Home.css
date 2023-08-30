@@ -29,14 +29,14 @@
     box-shadow: 10px 10px 60px 10px rgba(190, 190, 190, 0.4) ;
   }
   span{
-    color: rgb(113, 0, 218);
+    color: rgb(102, 0, 255);
   }
   
   button:hover {
     font-size: 16px;
     background-color: white;
-    color: black;
-    border: black solid 1px;
+    color: rgb(102, 0, 255);
+    border: rgb(102, 0, 255) solid 1px;
 
     
   }

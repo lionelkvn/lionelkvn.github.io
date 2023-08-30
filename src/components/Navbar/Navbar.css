@@ -56,13 +56,13 @@
     bottom: -5px;
     left: 50%;
     transform: translateX(-50%);
-    background: blueviolet;
+    background: rgb(104, 0, 255);
     transition: width 0.3s;
   }
   
   .navbar-container ul li a:hover::after {
     width: 70%;
-    color: blueviolet;
+    color:rgb(104, 0, 255);
   }
   .menu {
     padding-right: 100px;
@@ -132,6 +132,7 @@
       display: block;
       font-size: 24px;
       user-select: none;
+      color: rgb(104, 0, 255);
     }
     .menu li:hover {
       display: inline-block;
