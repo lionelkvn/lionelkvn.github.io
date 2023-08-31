@@ -18,25 +18,34 @@
   display: flex;
     padding-left:  100px ;
     justify-content: center;
-    width: 80%;
+    width: 100%;
 
 }
 .techstack-container {
     display: flex;
+    flex-direction: column;
     width: 50%;
     justify-content: center;
     
 }
+
+
 .techstack-text{
   display: flex;
   flex-direction: column;
+  text-align: center;
+  align-items: center;
+  
+  
 }
-.techstack-icons{
+.techstack-icon{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
-.techstack-image{
-  width: 150px;
+.techstack-image{ 
+  padding-top: 2rem;
+  height: 150px;
 }
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {

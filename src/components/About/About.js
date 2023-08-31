@@ -20,12 +20,13 @@ const About = () => {
       <div className='techstack-container'>
         <div className="techstack-text">
           <h1>Tech<span>Stack</span></h1>
+        </div>
             <div className="techstack-icons">
               <div className="techstack-icon">
-                <img src="/images/html.png" alt="" className='techstack-image'/>
-                <img src="/images/CSS.png" alt="" className='techstack-image' />
-
-              </div>
+                <img src="/images/html5-icon.png" alt="TechStack" className='techstack-image'/>
+                <img src="/images/CSS-icon.png" alt="TechStack" className='techstack-image'/>
+                <img src="/images/JS-icon.png" alt="TechStack" className='techstack-image'/>
+             
           
             </div>
           </div>
