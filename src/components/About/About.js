@@ -1,7 +1,6 @@
 import React from 'react';
 import "./About.css";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHtml5 } from '@fortawesome/free-brands-svg-icons';
+
 
 
 const About = () => {
@@ -26,6 +25,7 @@ const About = () => {
                 <img src="/images/html5-icon.png" alt="TechStack" className='techstack-image'/>
                 <img src="/images/CSS-icon.png" alt="TechStack" className='techstack-image'/>
                 <img src="/images/JS-icon.png" alt="TechStack" className='techstack-image'/>
+                <img src="/images/React-icon.png" alt="" className='techstack-image'/>
              
           
             </div>
