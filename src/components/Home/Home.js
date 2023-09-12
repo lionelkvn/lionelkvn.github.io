@@ -13,7 +13,7 @@ const Home = () => {
             <br/>
             <div className='buttons'>
               <button><h3>Get in touch </h3></button>
-              <a href="/pdfs/LIONEL_NATIVIDAD.pdf"><button><h3>Download my résumé </h3></button> </a>
+              <a href="/pdfs/LIONEL_NATIVIDAD.pdf"><button><h3>my Résumé </h3></button> </a>
             </div>
             
 
