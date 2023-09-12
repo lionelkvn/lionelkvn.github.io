@@ -18,7 +18,7 @@ const About = () => {
       
       <div className='techstack-container'>
         <div className="techstack-text">
-          <h1>Tech<span>Stack</span></h1>
+          <h1>Tech <span>Stack</span></h1>
         </div>
             <div className="techstack-icons">
               <div className="techstack-icon">
