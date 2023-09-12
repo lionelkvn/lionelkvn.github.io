@@ -47,6 +47,10 @@
   padding-top: 2rem;
   height: 150px;
 }
+.techstack-image:hover {
+  transform: scale(1.2);
+  transition: transform 0.5s ease;
+}
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {
     .about-container {
@@ -76,3 +80,4 @@
       justify-content: center;
     }
   }
+
