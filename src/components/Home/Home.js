@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div id='Home' className='Home-container'>
         <div className='home-image'>
-            <img src="/images/Home-img.jpg" alt="Home" />
+            <img src='/images/Home-img.jpg' alt="Home" />
         </div>
         <div className='home-text'>
             <h1>I'm Lionel, a full-stack <span>Web Developer</span></h1>
@@ -13,7 +13,7 @@ const Home = () => {
             <br/>
             <div className='buttons'>
               <button><h3>Get in touch </h3></button>
-              <a href="/pdfs/LIONEL_NATIVIDAD.pdf"><button><h3>my Résumé </h3></button> </a>
+              <a href='/pdfs/LIONEL_NATIVIDAD.pdf'><button><h3>my Résumé </h3></button> </a>
             </div>
             
 
