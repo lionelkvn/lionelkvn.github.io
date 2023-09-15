@@ -12,7 +12,7 @@ const Projects = () => {
         
       <div className='projects-wrapper'>
         <div className="project-thumbnail">
-          <a href='https://capstone-072823-git-master-lionelkvn.vercel.app/'> <img src='/Inknovative.jpg' alt="inknovative" className='project-photos' /> </a>
+          <a href='https://capstone-072823-git-master-lionelkvn.vercel.app/'> <img src='/Inknovative.jpg' alt="screenshot of inknovative website " className='project-photos' /> </a>
         </div>
         <div className='project-description'>
           <h3> Inknovative Portfolio Website</h3>
