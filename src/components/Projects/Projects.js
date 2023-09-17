@@ -23,8 +23,11 @@ const Projects = () => {
           <br/>
           <h4>Technologies used:</h4><p> HTML,CSS and Javascript</p>
           <h4>Framework:</h4><p>React</p>
-          <a href="https://capstone-072823-git-master-lionelkvn.vercel.app/"><button>visit website</button></a>
-          <a href="https://github.com/lionelkvn/capstone-072823.git"><button>code</button></a>
+          <div className='buttons-wrapper'>
+            <a href="https://capstone-072823-git-master-lionelkvn.vercel.app/"><button>visit website</button></a>
+            <a href="https://github.com/lionelkvn/capstone-072823.git"><button>code</button></a>
+          </div>
+          
         </div>
   
         </div>

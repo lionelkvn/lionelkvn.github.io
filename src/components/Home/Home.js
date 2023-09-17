@@ -11,12 +11,10 @@ const Home = () => {
             <h1>I'm Lionel, a full-stack <span>Web Developer</span></h1>
             <h2>and I <span>create</span> and <span>build</span> things for the web.</h2>
             <br/>
-            <div className='buttons'>
-              <button><h3>Get in touch </h3></button>
-              <a href='/pdfs/LIONEL_NATIVIDAD.pdf'><button><h3>my Résumé </h3></button> </a>
+              <div className='buttons'>
+                <button><h3>Get in touch </h3></button>
+                <a href='/pdfs/LIONEL_NATIVIDAD.pdf'><button><h3>my Résumé </h3></button> </a>
             </div>
-            
-
         </div>
     
     </div>

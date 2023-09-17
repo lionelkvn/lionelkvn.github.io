@@ -3,7 +3,8 @@
     width: 100%;
     display: flex;
     align-items: center;
-    padding: 2rem 0%;
+    justify-content: center;
+    padding: 2rem 0;
     color: black;
   }
   .home-image {
@@ -61,11 +62,12 @@
   }
   @media (max-width: 768px) {
     .Home-container {
+    justify-content: center;
     flex-direction: column;
     padding-top: 3rem;
     padding: 2rem 5%;
     text-align: center;
-    height: 80vh;
+    height: auto;
     }
   
     .home-image {

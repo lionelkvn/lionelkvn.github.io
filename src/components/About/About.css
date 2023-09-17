@@ -56,15 +56,20 @@
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {
     .about-container {
+      display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 2rem;
+      height: auto;
+      padding-top: 1rem;
+    }
+    .about-text {
+      width: 80%;
     }
   
     .about-me-header {
       padding-left: 0;
       text-align: center;
-      padding-bottom: 1rem;
+      padding: 1rem;
     }
   
     .about-me-description {
@@ -77,9 +82,20 @@
       width: 100%;
       margin-top: 1rem;
     }
+
+    .techstack-icon {
+      display: inline-block;
+      flex-direction: column;
+      justify-content: center;
+      
+    }
   
     .techstack-icons {
-      justify-content: center;
+      justify-content: space-between;
+      width: auto;
+    }
+    .techstack-image {
+      width: fit-content;
     }
   }
 
