@@ -23,8 +23,8 @@ const Navbar = () => {
                 <label for="checkbox_toggle" class="hamburger">&#9776;</label>
                 <div class="menu">
                 <li><a href="/"><h4>Home</h4></a></li>
-                <li><a href="/About"><h4>About</h4></a></li>
-                <li><a href="/Portfolio"><h4>Projects</h4></a></li>
+                <li><a href="#about"><h4>About</h4></a></li>
+                <li><a href="#projects"><h4>Projects</h4></a></li>
                 <li><a href="/contact"><h4>Contact</h4></a></li>
                 </div>
               </ul>

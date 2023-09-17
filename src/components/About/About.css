@@ -5,7 +5,11 @@
     justify-content: center;
     height:60vh;
     width: 100%;
+    padding-top: 6rem;
 }
+/* .about-container h3,h1 {
+  color: white;
+} */
 .about-text{
   width: 50%;
 }
@@ -28,14 +32,11 @@
     justify-content: center;
     
 }
-
-
 .techstack-text{
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  
   
 }
 .techstack-icon{
@@ -44,13 +45,14 @@
     justify-content: center;
 }
 .techstack-image{ 
-  padding-top: 2rem;
-  height: 150px;
+  padding: 2rem 1rem;
+  height: 200px;
 }
 .techstack-image:hover {
   transform: scale(1.2);
-  transition: transform 0.5s ease;
+  transition: transform 0.3s ease;
 }
+
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {
     .about-container {

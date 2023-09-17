@@ -25,10 +25,8 @@ const About = () => {
                 <img src="/images/html5-icon.png" alt="TechStack" className='techstack-image'/>
                 <img src="/images/CSS-icon.png" alt="TechStack" className='techstack-image'/>
                 <img src="/images/JS-icon.png" alt="TechStack" className='techstack-image'/>
-                <img src="/images/React-icon.png" alt="" className='techstack-image'/>
-             
-          
-            </div>
+                <img src="/images/React-icon.png" alt="Techstack" className='techstack-image'/>
+             </div>
           </div>
         </div>
     </div>

@@ -12,6 +12,9 @@
     justify-content: right;
     padding-right: 40px;
   }
+  .Home-container h1 {
+    color: black;
+  }
   
 .home-image img  {
     width: 60%;
@@ -34,16 +37,11 @@
   }
   
   button:hover {
-    font-size: 16px;
+    font-size: 15px;
     background-color: white;
     color: rgb(102, 0, 255);
-    border: rgb(102, 0, 255) solid 1px;
-
-    
+    border: rgb(102, 0, 255) solid 2px;
   }
-
-
-
 .home-text button {
   margin-top: 10px; /* Add spacing above the button */
 }
@@ -71,7 +69,7 @@
     }
   
     .home-image {
-      width: 80%; /* Adjust the width for better responsiveness */
+      width: 75%; /* Adjust the width for better responsiveness */
       justify-content: center;
       padding-top: 4rem;
       padding-right: 0;

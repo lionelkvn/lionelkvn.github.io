@@ -1,0 +1,21 @@
+.footer-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.footer-container {
+    display: flex;
+    width: 70%;
+    padding: 15px 0px;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+}
+.socials{
+    display: flex;
+}
+.socials-icon {
+    margin: 0px 8px;
+    width: 25px;
+}
