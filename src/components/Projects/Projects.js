@@ -19,7 +19,7 @@ const Projects = () => {
           <p>a portfolio web app highlighting the projects of Inknovative, a premier graphic design firm in Cotabato, Philippines.
           </p>
           <br />
-          <p> This web app was our capstone project during our bootcamp at KodeGo.</p>
+          <p> This web app was our capstone project during our coding bootcamp.</p>
           <br/>
           <h4>Technologies used:</h4><p> HTML,CSS and Javascript</p>
           <h4>Framework:</h4><p>React</p>
