@@ -11,8 +11,12 @@ const About = () => {
           <h1>About <span>Me</span></h1>
         </div>
         <div className='about-me-description'>
-          <h3> Hi! I'm a web developer from Pampanga, Philippines with a passion for creating pleasing and useful web applications. 
-          </h3>
+          <p> Hi! I'm a web developer from Pampanga, Philippines with a passion for creating pleasing and useful web applications. 
+          </p>
+          <p>
+          My story isn't your usual "I always knew I wanted to code" narrative. Instead, it all started with the discovery that I could modify the software controlling my 3D printers at home. This newfound power fascinated me because it meant I could take my imaginative ideas and turn them into real, tangible objects. It felt like magic!
+          </p>
+
         </div>
       </div>
       
