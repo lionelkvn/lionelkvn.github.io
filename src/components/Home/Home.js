@@ -12,7 +12,7 @@ const Home = () => {
             <h2>and I <span>create</span> and <span>build</span> things for the web.</h2>
             <br/>
               <div className='buttons'>
-                <button><h3>Get in touch </h3></button>
+                <a href="mailto:lionel.natividad@gmail.com"><button><h3>Get in touch </h3></button></a>
                 <a href='/pdfs/LIONEL_NATIVIDAD.pdf'><button><h3>my Résumé </h3></button> </a>
             </div>
         </div>
