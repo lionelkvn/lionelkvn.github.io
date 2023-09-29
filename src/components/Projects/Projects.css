@@ -17,7 +17,7 @@
 
 .project-description{
     padding:0rem  2rem;
-    font-size: .9rem;
+    font-size: 1rem;
 }
 
 .project-photos {
@@ -28,7 +28,7 @@
 }
 
 .project-photos:hover{
-    transform: scale(1.02);
+    transform: scale(1.05);
     transition: 0.3s ease-in-out;
 }
 @media (max-width: 768px) {
@@ -57,7 +57,7 @@
     }
     .project-description{
         padding: 1rem 1rem;
-        font-size: 1.rem;
+        
     }
     .project-photos{
         height: auto;

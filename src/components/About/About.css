@@ -26,9 +26,9 @@
     width: 100%;
 
 }
-p {
+/* p {
   padding-top: 1rem;
-}
+} */
 .techstack-container {
     display: flex;
     flex-direction: column;
