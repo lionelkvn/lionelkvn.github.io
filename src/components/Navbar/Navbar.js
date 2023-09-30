@@ -25,7 +25,7 @@ const Navbar = () => {
                 <li><a href="/"><h4>Home</h4></a></li>
                 <li><a href="#about"><h4>About</h4></a></li>
                 <li><a href="#projects"><h4>Projects</h4></a></li>
-                <li><a href="/contact"><h4>Contact</h4></a></li>
+                <li><a href="mailto:lionel.natividad@gmail.com"><h4>Contact</h4></a></li>
                 </div>
               </ul>
       </div>
