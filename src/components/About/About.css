@@ -3,9 +3,10 @@
     flex-direction:row;
     align-items:start;
     justify-content: center;
-    height:auto;
+    height:100vh;
     width: 100%;
     padding-top: 6rem;
+    
 }
 /* .about-container h3,h1 {
   color: white;
